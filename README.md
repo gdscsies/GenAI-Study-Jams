@@ -8,7 +8,8 @@
 | No. of Prompt Design in Vertex AI completions          | 60    |
 | No. of Develop GenAI Apps with Gemini and Streamlit    | 52    |
 | No. of Gen AI Arcade Game completions                  | 57    |
-| Total no. of participants completed in all the pathways| 50    | (This is counted as completion)
+| Total no. of participants completed in all the pathways| 50    | 
+|(Note: This will be considered for the milestone evaluation)    |
 
 
 Check your progress over here: 
