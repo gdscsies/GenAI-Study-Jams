@@ -1,4 +1,5 @@
-# GenAI Study Jams
+![Uploading image.png…]()
+
 
 | Metric                                                 | Value |
 |--------------------------------------------------------|-------|
