@@ -1,5 +1,5 @@
 ![Uploading image.png…]()
-
+[Pathways + Lab Solutions](https://docs.google.com/document/d/1YQ8tCVW9gBWFjuik1TRm4o1edv4lnuFLmC6lzfQB29E/edit)
 
 | Metric                                                 | Value |
 |--------------------------------------------------------|-------|
