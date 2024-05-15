@@ -16,4 +16,6 @@
 
 Check your progress over here: 
 [Gen AI Study Jams Progress Report](https://docs.google.com/spreadsheets/d/1gibgjJc6bTCKf2KufG9zS8EcuOvxZYjFlHEZTLlJMpA/edit?usp=sharing)
-(Updates everyday at 1pm)
+
+
+##(Updates everyday at 1pm)
