@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/gdscsies/GenAI-Study-Jams/assets/169880752/f3c77d86-9c68-4336-b82f-43215a729265)
+
 [Pathways + Lab Solutions](https://docs.google.com/document/d/1YQ8tCVW9gBWFjuik1TRm4o1edv4lnuFLmC6lzfQB29E/edit)
 
 | Metric                                                 | Value |
