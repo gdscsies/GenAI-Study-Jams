@@ -5,12 +5,12 @@
 | Metric                                                 | Value |
 |--------------------------------------------------------|-------|
 | No. of students enrolled                               | 150   |
-| No. Of participants who redeemed the credits           | 94    |
+| No. Of participants who redeemed the credits           | 98    |
 | No. of correct students enrolled                       | 149   |
-| No. of Prompt Design in Vertex AI completions          | 61    |
+| No. of Prompt Design in Vertex AI completions          | 63    |
 | No. of Develop GenAI Apps with Gemini and Streamlit    | 58    |
 | No. of Gen AI Arcade Game completions                  | 62    |
-| Total no. of participants completed in all the pathways| 56    | 
+| Total no. of participants completed in all the pathways| 57    | 
 |(Note: This will be considered for the milestone evaluation)    |
 
 
