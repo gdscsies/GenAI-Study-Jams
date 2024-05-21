@@ -17,7 +17,4 @@
 Check your progress over here: 
 [Gen AI Study Jams Progress Report](https://docs.google.com/spreadsheets/d/1gibgjJc6bTCKf2KufG9zS8EcuOvxZYjFlHEZTLlJMpA/edit?usp=sharing)
 
-#### Complete all the 3 pathways and grab those last 30 spots ASAP.
-
-
 ## (Updates everyday at 1pm)
